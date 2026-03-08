@@ -1,5 +1,9 @@
 {
-  "homepage_password": "98402489",
+  "site_name": "MoonTV",
+  "homepage_password": "your_password",
+  "douban_proxy": "",
+  "image_proxy": "",
+  "downstream_proxy": "",
   "cache_time": 7200,
   "api_site": {
     "dyttzy": {
