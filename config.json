@@ -1,4 +1,9 @@
 {
+  "douban_proxy": "https://your-proxy.example.com/fetch?url=",
+  "downstream_proxy": "https://your-proxy.example.com/fetch?url=",
+  "image_proxy": "https://your-proxy.example.com/image?url="
+}
+{
   "site_name": "admin",
   "homepage_password": "98402489",
   "douban_proxy": "",
