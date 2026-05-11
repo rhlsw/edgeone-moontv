@@ -1,7 +1,7 @@
 {
   "framework": "other",
-  "buildCommand": "pnpm gen:runtime && cp next.config.edgeone.js next.config.js && pnpm next build",
-  "installCommand": "pnpm install --frozen-lockfile",
+  "buildCommand": "npm gen:runtime && cp next.config.edgeone.js next.config.js && npm next build",
+  "installCommand": "npm install --frozen-lockfile",
   "outputDirectory": "out",
   "nodeVersion": "20.x"
 }
