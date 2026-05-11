@@ -1,7 +1,0 @@
-{
-  "framework": "other",
-  "buildCommand": "npm gen:runtime && cp next.config.edgeone.js next.config.js && npm next build",
-  "installCommand": "npm install --frozen-lockfile",
-  "outputDirectory": "out",
-  "nodeVersion": "20.x"
-}
